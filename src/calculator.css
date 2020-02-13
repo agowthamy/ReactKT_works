@@ -1,0 +1,8 @@
+.calculator {
+  height: 40vh;
+  margin-top: 109px;
+  width: 25%;
+  margin-left: 36%;
+  box-shadow: 0 2rem 4rem var(--shadow);
+  background-color: dimgray;
+}
